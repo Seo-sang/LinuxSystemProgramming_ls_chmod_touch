@@ -9,3 +9,5 @@ Usage : mychmod [options] filename
   
 # Third, you can use mytouch only with c option
 Usage : mytouch [options] filename
+
+# https://shyeon.tistory.com/12?category=980172
